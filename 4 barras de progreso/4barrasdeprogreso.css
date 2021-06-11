@@ -1,0 +1,32 @@
+
+  .contenedor{
+      width: 500px;
+      height: 30px;
+      background-color: grey;
+      border-radius: 100px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+  }
+  
+  .progreso{
+      background-color: hotpink;
+      height: 30px;
+      border-radius: 100px;
+  }
+  
+  .p10{
+      width: 10%;
+
+  }
+  .p25{
+      width: 25%;
+  }
+  .p50{
+      width: 50%;
+  }
+  .p75{
+      width: 75%;
+  }
+  .p90{
+      width: 90%;
+  }

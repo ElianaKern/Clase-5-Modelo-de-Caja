@@ -1,0 +1,30 @@
+/** {
+    border: 1px solid blue;
+}*/
+body{
+    background-color: #EBE3FB;
+}
+.cuadrado{
+    background-color: rgb(245, 236, 245);
+    width: 396px;
+    height: 300px;
+    margin-left: 357px;
+    margin-right: 757px;
+    margin-top: 226px;
+    margin-bottom: 575px;
+    padding: 20px;
+}
+p{
+    margin-left: 100px;
+}
+.d{
+    width: 20px;
+    height: 5px;
+    border: 1px solid grey;
+}
+.bluegrande{
+    margin-top: 0 px;
+    margin-left: 155px; 
+    margin-bottom: 100px;
+
+}

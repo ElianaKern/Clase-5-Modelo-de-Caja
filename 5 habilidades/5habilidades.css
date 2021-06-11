@@ -1,0 +1,64 @@
+/* * {
+    border: 1px solid blue;
+} te selecciona todos los elementos, es para poder ver los nargenes que estan ocupando*/
+
+body{
+    background-color:#07c8d1;
+}
+.bosquejo{
+    width: 100px;
+    height: 200px;
+    margin-left: 85%;
+    padding: 20px;
+    background-color: khaki;
+    border-radius: 40px;
+}
+.img{
+    margin-right: 100px;
+}
+.cuadrado{
+    background-color: rgb(245, 236, 245);
+    width: 396px;
+    height: 349px;
+    margin-left: 357px;
+    margin-right: 757px;
+    margin-top: 226px;
+    margin-bottom: 575px;
+    padding: 20px;
+}
+.solapas{
+    width: 330px;
+    height: 80px;
+    border-radius: 15px;
+    border:1px solid rgb(204, 203, 203);
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.chica{
+    font-size:small;
+    padding-left: 10px;
+}
+.fuxia{
+    border-left:5px solid fuchsia;
+}
+.violeta{
+    border-left:5px solid rgb(189, 108, 189);
+}
+.naranja{
+    border-left:5px solid orange;
+}
+p{
+    padding-top: 15px;
+    padding-left: 10px;
+    margin-bottom: 0;
+}
+.aladerecha{
+    float: right;
+    margin-right: 30px;
+    border:1px solid gray;
+    padding: 5px;
+    border-radius: 5px;
+}
+.andateabajo{
+    margin-left: 50px;
+}

@@ -1,0 +1,81 @@
+
+.cuadrado-azul{
+    background: blue;
+    
+    height: 100px;
+    width: 100px;
+
+    padding-left: 100px;
+    padding-right: 100px;
+
+    border-left: 50px solid green;
+    border-right: 10px solid pink;
+    
+    margin-left: 200px;
+
+    margin-bottom: 50px;
+}
+
+.cuadrado-amarillo-chico {
+    background: yellow;
+    width: 100%;
+    height: 100%;
+    border: 10px solid blue;
+    border-top-width: 20px;
+    border-top-style: dashed;
+    border-top-color: fuchsia;
+    
+}
+
+.cuadrado-rojo{
+    background: red;
+    width: 100px;
+    height: 100px;
+    padding-top: 5px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 25px;
+    margin-bottom: 50px;
+}
+
+
+.cuadrado-violeta{
+    background: violet;
+    width: 500px;
+    height: 500px;
+    margin-bottom: 50px;
+}
+
+.cuadrado-verde{
+    background: green;
+    width: 100px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: -20px 15px 8px blue;
+}
+
+.cuadradito-azul{
+    background: blue;
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+}
+
+.cuadrado-morado{
+    background: maroon;
+    width: 200px;
+    
+    height: 200px;
+    margin-left: 5px;
+}
+
+.redondel{
+    width: 200px;
+    height: 200px;
+    background: mediumblue;
+    overflow: hidden;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 20px;
+}
